@@ -1,0 +1,15 @@
+{
+  "name": "html-webpack-conversion-script",
+  "version": "1.0.0",
+  "description": "conversion script to body",
+  "main": "index.js",
+  "repository": "https://github.com/Grewer/htmlWebpackConversionScript.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "grewer <grewer@grewer.cn>",
+  "license": "MIT"
+}
